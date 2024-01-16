@@ -63,31 +63,6 @@ a::after{
 a:hover::after,:hover::before{
     width: 100%;
 }
-
-.main{
-    display: flex;  
-    height: calc(100vh-40px);
-    width: 100%;
-    flex-wrap: wrap;
-}
-.left{
-    width: 60%;
-    text-align: center;
-    padding-top: 70px;
-    line-height: 40px;
-    min-width: 500px;
-}
-.right{
-    width: 40%;
-    min-width: 600px;
-}
-img{
-    width: 600px;
-    opacity: 70%;
-}
-.name{
-    color: gold;
-}
 .dropmenu{
     display: none;
     
